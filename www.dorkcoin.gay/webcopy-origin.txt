@@ -1,0 +1,328 @@
+Uri: https://www.dorkcoin.gay/
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dorkcoin.gay/favicon.ico
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew.1e02ccc3.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\andrew-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew.1e02ccc3.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\andrew-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fartwork.1c65636b.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\artwork-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fartwork.1c65636b.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\artwork-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fartwork1.ebf88458.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\artwork1-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fartwork1.ebf88458.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\artwork1-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fballon.af4b54df.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\ballon-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fballon.af4b54df.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\ballon-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdork-background-2.527198c8.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\dork-background-2-12.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdork-background-2.527198c8.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\dork-background-2-13.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdork-background-2.527198c8.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\dork-background-2-14.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdork-background-2.527198c8.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\dork-background-2-15.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdork-background-2.527198c8.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\dork-background-2-8.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdork-background-2.527198c8.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\dork-background-2-9.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdork-background-2.527198c8.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\dork-background-2-10.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdork-background-2.527198c8.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\dork-background-2-11.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-supercar.b7405a24.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\img-supercar-12.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-supercar.b7405a24.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\img-supercar-13.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-supercar.b7405a24.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\img-supercar-14.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-supercar.b7405a24.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\img-supercar-15.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-supercar.b7405a24.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\img-supercar-8.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-supercar.b7405a24.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\img-supercar-9.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-supercar.b7405a24.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\img-supercar-10.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-supercar.b7405a24.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\img-supercar-11.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FImg_01.62ea4d2d.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Img_01-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FImg_01.62ea4d2d.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Img_01-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FImg_02.87603ee4.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Img_02-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FImg_02.87603ee4.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Img_02-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FImg_03.c71e2347.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Img_03-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FImg_03.c71e2347.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Img_03-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FImg_DorkCoin.7aae8505.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Img_DorkCoin-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FImg_DorkCoin.7aae8505.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Img_DorkCoin-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.d68deeb7.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Logo-12.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.d68deeb7.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Logo-13.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.d68deeb7.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Logo-14.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.d68deeb7.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Logo-15.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.d68deeb7.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Logo-8.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.d68deeb7.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Logo-9.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.d68deeb7.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Logo-10.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.d68deeb7.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\Logo-11.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpay-debts-image.10a2c49c.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\pay-debts-image-3.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpay-debts-image.10a2c49c.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\pay-debts-image-2.png
+Content Type: image/png
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/472-118e590fb43ca551.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\472-118e590fb43ca551-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/564-da4071c7db2858a9.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\564-da4071c7db2858a9-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/645-bb61cee08a755c05.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\645-bb61cee08a755c05-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/964-d7de36436fec01f7.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\964-d7de36436fec01f7-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/app/layout-84b9a02d87143703.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\app\layout-84b9a02d87143703-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/app/page-710c613f12f7f633.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\app\page-710c613f12f7f633-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/fd9d1056-a2403b89d97f950b.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\fd9d1056-a2403b89d97f950b-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/main-app-892c3dff08e9cd4c.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\main-app-892c3dff08e9cd4c-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\polyfills-c67a75d1b6f99dc8-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/chunks/webpack-1eacc34cfa47ee69.js
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\chunks\webpack-1eacc34cfa47ee69-1.js
+Content Type: application/javascript
+
+Uri: https://www.dorkcoin.gay/_next/static/css/27cf8fb1d907685e.css
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\css\27cf8fb1d907685e-1.css
+Content Type: text/css
+
+Uri: https://www.dorkcoin.gay/_next/static/css/46d2f1b70d0e73f2.css
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\css\46d2f1b70d0e73f2-1.css
+Content Type: text/css
+
+Uri: https://www.dorkcoin.gay/_next/static/media/591f8580016c7119-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\591f8580016c7119-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/5c04f15f84f96765-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\5c04f15f84f96765-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/6aa3e5fffd11d7fb-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\6aa3e5fffd11d7fb-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/6d4d63dd701bccec-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\6d4d63dd701bccec-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/786e9d0d83b0443e-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\786e9d0d83b0443e-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/7db78583d126d56e-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\7db78583d126d56e-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/8ea64f0c1d6d8bc3-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\8ea64f0c1d6d8bc3-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/a0b203a4fd7d0208-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\a0b203a4fd7d0208-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/a85495c66a4d564e-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\a85495c66a4d564e-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/b913d53d0a60fbed-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\b913d53d0a60fbed-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/bec52dfc276f624e-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\bec52dfc276f624e-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/cd56115b8b9b1500-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\cd56115b8b9b1500-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/d17cf1dd6335f1d4-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\d17cf1dd6335f1d4-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/d1f37889b86bcc24-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\d1f37889b86bcc24-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/d953a52d0da28682-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\d953a52d0da28682-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/ddd0873281742caa-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\ddd0873281742caa-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/Dex.64e557a8.svg
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\Dex.64e557a8-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dorkcoin.gay/_next/static/media/DORKS.904757f4.svg
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\DORKS.904757f4-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dorkcoin.gay/_next/static/media/DORK_Background.5c8ad067.svg
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\DORK_Background.5c8ad067-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dorkcoin.gay/_next/static/media/ed0ad737c420e0f0-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\ed0ad737c420e0f0-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/efa3c8a5ea07b468-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\efa3c8a5ea07b468-s.p-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dorkcoin.gay/_next/static/media/Email.28c502d4.svg
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\Email.28c502d4-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dorkcoin.gay/_next/static/media/Ethscan.fe1b3796.svg
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\Ethscan.fe1b3796-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dorkcoin.gay/_next/static/media/LogoDNG.426be535.svg
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\LogoDNG.426be535-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dorkcoin.gay/_next/static/media/Telegram.71c2673f.svg
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\Telegram.71c2673f-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dorkcoin.gay/_next/static/media/X.ebd32b13.svg
+File Name: C:\Downloaded Web Sites\www.dorkcoin.gay\_next\static\media\X.ebd32b13-1.svg
+Content Type: image/svg+xml
+
